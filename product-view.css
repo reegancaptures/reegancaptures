@@ -18,3 +18,18 @@
 .mdf-new-1398,.jr-single .jr-photo-open>.mdf-new-1398,.jr-single-large>.mdf-new-1398,.catalog-card .mdf-new-1398{aspect-ratio:210/200;background-size:313.809524% 424.500000%;background-position:93.541203% 51.617874%;height:auto}
 .mdf-new-1399,.jr-single .jr-photo-open>.mdf-new-1399,.jr-single-large>.mdf-new-1399,.catalog-card .mdf-new-1399{aspect-ratio:277/220;background-size:237.906137% 385.909091%;background-position:6.282723% 97.138315%;height:auto}
 .mdf-new-1400,.jr-single .jr-photo-open>.mdf-new-1400,.jr-single-large>.mdf-new-1400,.catalog-card .mdf-new-1400{aspect-ratio:278/222;background-size:237.050360% 382.432432%;background-position:94.488189% 97.288676%;height:auto}
+.mdf-clock-1377{background-image:url("mdf-clock-collection.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:214/216;background-size:307.943925% 393.055556%;background-position:18.651685% 7.109005%;height:auto;width:100%}
+.mdf-clock-1379{background-image:url("mdf-clock-collection.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:222/219;background-size:296.846847% 387.671233%;background-position:90.846682% 6.984127%;height:auto;width:100%}
+.mdf-clock-1381{background-image:url("mdf-clock-collection.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:222/218;background-size:296.846847% 389.449541%;background-position:17.162471% 52.139461%;height:auto;width:100%}
+.mdf-clock-1383{background-image:url("mdf-clock-collection.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:221/209;background-size:298.190045% 406.220096%;background-position:93.835616% 50.781250%;height:auto;width:100%}
+.mdf-clock-1385{background-image:url("mdf-clock-collection.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:199/246;background-size:331.155779% 345.121951%;background-position:18.695652% 98.341625%;height:auto;width:100%}
+.mdf-clock-1387{background-image:url("mdf-clock-collection.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:195/226;background-size:337.948718% 375.663717%;background-position:87.068966% 96.308186%;height:auto;width:100%}
+
+.jr-single .jr-photo-open>[class*="mdf-clock-"],.jr-single-large>[class*="mdf-clock-"]{aspect-ratio:300/220;height:auto}
+
+.mdf-clock-1377,.jr-single .jr-photo-open>.mdf-clock-1377,.jr-single-large>.mdf-clock-1377,.catalog-card .mdf-clock-1377{aspect-ratio:214/216;background-size:307.476636% 391.666667%;background-position:18.693694% 7.142857%;height:auto}
+.mdf-clock-1379,.jr-single .jr-photo-open>.mdf-clock-1379,.jr-single-large>.mdf-clock-1379,.catalog-card .mdf-clock-1379{aspect-ratio:222/219;background-size:296.396396% 386.301370%;background-position:91.055046% 7.017544%;height:auto}
+.mdf-clock-1381,.jr-single .jr-photo-open>.mdf-clock-1381,.jr-single-large>.mdf-clock-1381,.catalog-card .mdf-clock-1381{aspect-ratio:222/218;background-size:296.396396% 388.073394%;background-position:17.201835% 52.388535%;height:auto}
+.mdf-clock-1383,.jr-single .jr-photo-open>.mdf-clock-1383,.jr-single-large>.mdf-clock-1383,.catalog-card .mdf-clock-1383{aspect-ratio:221/209;background-size:297.737557% 404.784689%;background-position:94.050343% 51.020408%;height:auto}
+.mdf-clock-1385,.jr-single .jr-photo-open>.mdf-clock-1385,.jr-single-large>.mdf-clock-1385,.catalog-card .mdf-clock-1385{aspect-ratio:199/246;background-size:330.653266% 343.902439%;background-position:18.736383% 98.833333%;height:auto}
+.mdf-clock-1387,.jr-single .jr-photo-open>.mdf-clock-1387,.jr-single-large>.mdf-clock-1387,.catalog-card .mdf-clock-1387{aspect-ratio:195/226;background-size:337.435897% 374.336283%;background-position:87.257019% 96.774194%;height:auto}
