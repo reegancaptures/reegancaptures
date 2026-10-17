@@ -163,3 +163,6 @@
 
 .moneybox-front,.jr-single .jr-photo-open>.moneybox-front,.jr-single-large>.moneybox-front,.catalog-card .moneybox-front{background-image:url("photo-money-box.jpg");background-repeat:no-repeat;background-color:white;width:100%;height:auto;aspect-ratio:226/251;background-size:290.707965% 131.872510%;background-position:12.993039% 71.250000%;}
 .moneybox-back,.jr-single .jr-photo-open>.moneybox-back,.jr-single-large>.moneybox-back,.catalog-card .moneybox-back{background-image:url("photo-money-box.jpg");background-repeat:no-repeat;background-color:white;width:100%;height:auto;aspect-ratio:217/251;background-size:302.764977% 131.872510%;background-position:86.136364% 68.750000%;}
+
+.puzzle-1671,.jr-single .jr-photo-open>.puzzle-1671,.jr-single-large>.puzzle-1671,.catalog-card .puzzle-1671{background-image:url("personalized-puzzle-frames.jpg");background-repeat:no-repeat;background-color:white;width:100%;height:auto;aspect-ratio:241/307;background-size:270.124481% 138.762215%;background-position:10.731707% 78.151261%;}
+.puzzle-1672,.jr-single .jr-photo-open>.puzzle-1672,.jr-single-large>.puzzle-1672,.catalog-card .puzzle-1672{background-image:url("personalized-puzzle-frames.jpg");background-repeat:no-repeat;background-color:white;width:100%;height:auto;aspect-ratio:284/272;background-size:229.225352% 156.617647%;background-position:95.912807% 70.129870%;}
