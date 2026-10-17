@@ -2,3 +2,19 @@
 
 .jr-single .jr-photo-open>.mdf-photo{width:100%;aspect-ratio:1;border-radius:0}.jr-single .jr-photo-open>img{width:100%;height:auto;object-fit:contain}.jr-single-large{width:min(78vw,750px)}.jr-single-large>.mdf-photo{width:100%;aspect-ratio:1}.jr-single-large>img{max-width:100%;height:auto}.jr-single .spec-list{font-size:12px}.jr-single .jr-option label{margin-top:16px}
 .jr-single .jr-photo-open>.mdf-photo,.jr-single-large>.mdf-photo{height:auto;aspect-ratio:300/230}
+
+.mdf-new-1389{background-image:url("mdf-new-catalog.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:315/224;background-size:209.206349% 379.017857%;background-position:2.034884% 7.840000%;height:auto;width:100%}
+.mdf-new-1391{background-image:url("mdf-new-catalog.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:312/222;background-size:211.217949% 382.432432%;background-position:96.541787% 8.133971%;height:auto;width:100%}
+.mdf-new-1395{background-image:url("mdf-new-catalog.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:307/217;background-size:214.657980% 391.244240%;background-position:2.840909% 52.848101%;height:auto;width:100%}
+.mdf-new-1398{background-image:url("mdf-new-catalog.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:306/218;background-size:215.359477% 389.449541%;background-position:95.750708% 52.773376%;height:auto;width:100%}
+.mdf-new-1399{background-image:url("mdf-new-catalog.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:313/224;background-size:210.543131% 379.017857%;background-position:2.023121% 97.920000%;height:auto;width:100%}
+.mdf-new-1400{background-image:url("mdf-new-catalog.jpg");background-repeat:no-repeat;background-color:white;aspect-ratio:308/223;background-size:213.961039% 380.717489%;background-position:96.011396% 97.603834%;height:auto;width:100%}
+
+.jr-single .jr-photo-open>[class*="mdf-new-"],.jr-single-large>[class*="mdf-new-"]{aspect-ratio:300/220;height:auto}
+
+.mdf-new-1389,.jr-single .jr-photo-open>.mdf-new-1389,.jr-single-large>.mdf-new-1389,.catalog-card .mdf-new-1389{aspect-ratio:176/239;background-size:374.431818% 355.230126%;background-position:18.219462% 5.245902%;height:auto}
+.mdf-new-1391,.jr-single .jr-photo-open>.mdf-new-1391,.jr-single-large>.mdf-new-1391,.catalog-card .mdf-new-1391{aspect-ratio:280/210;background-size:235.357143% 404.285714%;background-position:94.459103% 9.076682%;height:auto}
+.mdf-new-1395,.jr-single .jr-photo-open>.mdf-new-1395,.jr-single-large>.mdf-new-1395,.catalog-card .mdf-new-1395{aspect-ratio:270/177;background-size:244.074074% 479.661017%;background-position:7.197943% 50.148810%;height:auto}
+.mdf-new-1398,.jr-single .jr-photo-open>.mdf-new-1398,.jr-single-large>.mdf-new-1398,.catalog-card .mdf-new-1398{aspect-ratio:210/200;background-size:313.809524% 424.500000%;background-position:93.541203% 51.617874%;height:auto}
+.mdf-new-1399,.jr-single .jr-photo-open>.mdf-new-1399,.jr-single-large>.mdf-new-1399,.catalog-card .mdf-new-1399{aspect-ratio:277/220;background-size:237.906137% 385.909091%;background-position:6.282723% 97.138315%;height:auto}
+.mdf-new-1400,.jr-single .jr-photo-open>.mdf-new-1400,.jr-single-large>.mdf-new-1400,.catalog-card .mdf-new-1400{aspect-ratio:278/222;background-size:237.050360% 382.432432%;background-position:94.488189% 97.288676%;height:auto}
