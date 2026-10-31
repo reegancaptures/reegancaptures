@@ -13,3 +13,7 @@ The original supplier sheets and existing wooden gift photos remain in the repos
 ## Asset format
 
 Each SVG is a self-contained wrapper around an optimized WebP raster generated from its source sheet. There is no script or external resource dependency. Existing CSS sprite coordinates select products for the category cards, catalog cards and large product views. Additional crop margins give the products breathing room.
+
+## Fridge-door magnet update — 31 October 2026
+
+Built-in image generation edited the existing magnet sheet: preserve all 11 product designs and grid positions; attach each acrylic/MDF magnet flat to a brushed silver refrigerator door with a visible handle, natural kitchen lighting and subtle contact shadows. Individual CSS viewports serve the catalog, detail pages and lightbox. Original catalog remains available for rollback.
